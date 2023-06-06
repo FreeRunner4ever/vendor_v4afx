@@ -6,7 +6,7 @@ Add to lineage_device.mk
 ```$(call inherit-product, vendor/v4afx/config.mk)```
 
 And add support as this:
-https://github.com/TTTT555/device_xiaomi_begonia/commit/24c1fb91876c0b2c76ef6a918cb52113fe6122d4
+https://github.com/Mgm2023/device_samsung_exynos9820-common/commit/bad0d163a29fdc656cb3d1e9b6930482304fb58a
 
 All thanks to the ViPER4Android FX Team.
 ViPER4Android FX Channels:
