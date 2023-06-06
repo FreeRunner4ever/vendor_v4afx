@@ -1,8 +1,8 @@
-Non root viper4androidFX for Begonia
+Non root viper4androidFX for exynos9820/9825
 
 v.2.7.2.1
 
-Add to *.mk
+Add to lineage_device.mk
 ```$(call inherit-product, vendor/v4afx/config.mk)```
 
 And add support as this:
